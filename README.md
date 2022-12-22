@@ -5,6 +5,7 @@ Tema:
 Determination of crop coefficient (Kc) based on NDVI Time Series machine learning models
 
 Notebooks:
+
 milhocorreto->maize without pre-selection
 
 milhocorreto90->maize with a pre-selection of the time series with a Pearson correlation higher or equal to 0.9 with the Kc crop
